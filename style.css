@@ -1,0 +1,43 @@
+.container {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+}
+.location {
+  font-size: 18px;
+  font-weight: 400;
+}
+.searchfield {
+  text-align: right;
+  padding-left: 40px;
+}
+.form-control {
+  height: 30px;
+  font-size: 14px;
+}
+.live-temperature {
+  font-size: 32px;
+  padding: 20px;
+}
+.live-temperature-icon {
+  font-size: 56px;
+}
+.following-days {
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+.forecast-days {
+  font-size: 12px;
+  text-align: center;
+}
+.forecast-icon {
+  font-size: 32px;
+  text-align: center;
+}
+.forecast-temperature {
+  text-align: center;
+}
+.units {
+  font-size: 12px;
+  vertical-align: top;
+}
